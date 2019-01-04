@@ -7,4 +7,4 @@ This repo contains the `draft_combine.ipynb` notebook that explores the `draftco
 
 ## Results
 
-![](donte_divincenzo_summary_sheet.pdf)
+![](example.png)
